@@ -1,0 +1,7 @@
+DELAY 1000
+ALT F2
+DELAY 150
+STRING xdg-open https://www.wpblog.com/wp-content/uploads/2017/08/wordpress-site-is-hacked.jpg
+ENTER
+DELAY 1000
+ALT F11
